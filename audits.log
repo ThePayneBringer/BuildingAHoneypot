@@ -1,0 +1,9 @@
+Cient 127.0.0.1 attempted connection with username: username, password: GrimReaper9652!
+127.0.0.1, username, GrimReaper9652!
+Cient 127.0.0.1 attempted connection with username: username, password: password
+127.0.0.1, username, password
+Command b'hi'executed by 127.0.0.1
+Command b'hi'executed by 127.0.0.1
+Command b'whoamio'executed by 127.0.0.1
+Command b'whoami'executed by 127.0.0.1
+Command b'cat jumpbox.conf'executed by 127.0.0.1
